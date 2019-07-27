@@ -1,0 +1,6 @@
+elm-stuff
+repl-temp-*
+node_modules
+dist/minesweeper.js
+package-lock.json
+.idea
